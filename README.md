@@ -1,6 +1,8 @@
 # ASCII Render
 
-ASCII Render is a Python project that converts images and videos into ASCII art, with an optional feature to add color to the output. The project provides a fun way to visualize media using text characters.
+This is a Python project that converts images and videos into ASCII art, with an optional feature to add color to the output.
+
+For more details on how it works, you can check out my blog post about it [here](https://davidumoru.me/blog/ascii-image-and-video-render)
 
 ## Features
 
